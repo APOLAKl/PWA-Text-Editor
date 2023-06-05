@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "chad-text-editor",
   "version": "1.0.0",
-  "description": "Simply Text Editor",
+  "description": "Simple text editor may it be online or offline",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
