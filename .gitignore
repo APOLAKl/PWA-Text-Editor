@@ -1,5 +1,9 @@
 node_modules
 .env
 .DS_Store
-Week19-README.md
 dist
+Week19-README.md
+/Assets/00-demo.gif
+/Assets/01-manifest.png
+/Assets/02-service-worker.png
+/Assets/03-idb-storage.png
